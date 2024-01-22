@@ -1,0 +1,17 @@
+com\mycompany\pruebatecnica2\JAXRSConfiguration.class
+com\mycompany\pruebatecnica2\persistencia\exceptions\IllegalOrphanException.class
+com\mycompany\pruebatecnica2\servlets\EditStatusSv.class
+com\mycompany\pruebatecnica2\persistencia\exceptions\PreexistingEntityException.class
+com\mycompany\pruebatecnica2\persistencia\exceptions\NonexistentEntityException.class
+com\mycompany\pruebatecnica2\servlets\ClientSv.class
+com\mycompany\pruebatecnica2\servlets\NewTurnSV.class
+com\mycompany\pruebatecnica2\persistencia\PersistenceController.class
+com\mycompany\pruebatecnica2\servlets\TurnSv.class
+com\mycompany\pruebatecnica2\servlets\NewClientSv.class
+com\mycompany\pruebatecnica2\logica\Client.class
+com\mycompany\pruebatecnica2\persistencia\TurnJpaController.class
+com\mycompany\pruebatecnica2\logica\Turn.class
+com\mycompany\pruebatecnica2\servlets\DeleteTurnSV.class
+com\mycompany\pruebatecnica2\logica\Controller.class
+com\mycompany\pruebatecnica2\persistencia\ClientJpaController.class
+com\mycompany\pruebatecnica2\resources\JavaEE8Resource.class
